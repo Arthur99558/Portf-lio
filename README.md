@@ -1,2 +1,2 @@
-# Portf-lio
+# Portflio
 Projeto para integrar algumas redes sociais!
